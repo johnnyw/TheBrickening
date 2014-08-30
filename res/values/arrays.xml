@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="editoptions">
+    	<item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Steel</item>
+        <item>Multiple Balls</item>
+        <item>Laser</item>
+        <item>Barricade</item>
+        <item>Sticky ship</item>
+        <item>Double ship size</item>
+        <item>Half ship size</item>
+        <item>1UP</item>
+        <item>Ghost</item>
+    </string-array>
+</resources>
